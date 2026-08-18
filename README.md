@@ -6,86 +6,48 @@ I enjoy building practical projects that combine software, data, and real-world 
 
 ## 🚀 What I'm Working On
 
-* 🤖 Exploring **Machine Learning, Computer Vision, and AI-powered applications**
-* 📱 Building mobile applications with **React Native & Expo**
-* 🚀 Developing software and data systems for **robotics and FRC projects**
-* 🧠 Improving my **Data Structures, Algorithms, and Software Engineering** skills
-* 🔧 Experimenting with backend systems, databases, APIs, and automation
+* 🤖 Machine Learning, Computer Vision & AI applications
+* 📱 Mobile and full-stack software development
+* 🚀 Robotics and FRC software systems
 
 ## 🛠️ Tech Stack
 
 **Languages**
+`Python` `Java` `JavaScript` `TypeScript` `SQL`
 
-`Python` `Java` `JavaScript` `SQL`
+**Software & Mobile**
+`React Native` `Expo` `Next.js` `Node.js` `REST APIs`
 
-**Software & Web**
-
-`React Native` `Expo` `Node.js` `Next.js` `REST APIs`
-
-**Data & AI**
-
+**AI & Data**
 `Pandas` `NumPy` `Scikit-learn` `Computer Vision` `LLM APIs`
 
-**Backend & Databases**
-
-`Supabase` `PostgreSQL` `SQLite`
-
-**Robotics & Engineering**
-
-`FRC` `Sensors` `Autonomous Systems` `Embedded Systems`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Linux` `Docker`
+**Backend & Tools**
+`Supabase` `PostgreSQL` `SQLite` `Git` `Linux`
 
 ## ⭐ Featured Projects
 
-### 🎓 StudentTrack
+### 🚀 [FRC Scout](https://github.com/Zalsch/ScoutApp)
 
-AI-powered student performance and study tracking platform with analytics, authentication, and personalized recommendations.
+Full-stack scouting platform for collecting and analyzing FIRST Robotics Competition match data.
 
-`JavaScript` `Node.js` `Express` `SQLite` `Gemini AI` `Chart.js`
+`Next.js` `TypeScript` `PostgreSQL` `Neon`
 
-### 🤖 FRC Scout
+### 📚 [StudentTrack](https://github.com/Zalsch/STUDENTTRACK)
 
-Full-stack scouting platform for FIRST Robotics Competition teams to collect, manage, and analyze competition data.
+AI-powered student performance and study tracking platform with analytics and personalized recommendations.
 
-`Next.js` `PostgreSQL` `Neon` `REST API`
+`JavaScript` `Node.js` `SQLite` `Gemini AI`
 
-### 📱 Seyir
+### 🤖 [MemurBot](https://github.com/Zalsch/MemurBot)
 
-A mobile movie and TV discovery application focused on personalized content discovery, lists, ratings, and social interaction.
+AI-powered school information assistant using fuzzy matching and Gemini.
 
-`React Native` `Expo` `Supabase` `TMDB API`
+`Python` `Tkinter` `Gemini AI`
 
 ## 🤖 Robotics
 
-I have been involved in competitive robotics for several years as both a **student and mentor**.
-
-My experience includes:
-
-* Robot programming with Java
-* Autonomous algorithms
-* Sensor integration
-* Electronics
-* Mechanical design
-* Competition strategy
-* Mentoring robotics students
-
-## 📚 Currently Learning
-
-* Machine Learning & Data Science
-* Computer Vision
-* Advanced Python
-* Data Structures & Algorithms
-* Software Architecture
-* Robotics & ROS
+Experienced in competitive robotics as both a **student and mentor**, working on robot programming, autonomous systems, sensor integration, electronics, and competition strategy.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [linkedin.com/in/yoruk](https://www.linkedin.com/in/yoruk/)
-* 💻 GitHub: [github.com/Zalsch](https://github.com/Zalsch)
-
----
-
-> Building, learning, and turning ideas into real projects.
+[LinkedIn](https://www.linkedin.com/in/yoruk/)
